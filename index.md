@@ -1,9 +1,9 @@
-<!doctype html>
 <html>
   <head>
     <title>This is the title of the webpage!</title>
   </head>
   <body>
-    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+    <p>Reusable code to impute missing timestamps in the multiseries dataset<a href=" https://github.com/aman-sharma-nine/timeseries/blob/master/fill_missing_dates.ipynb">here</a> to see the notebook
+    </p>
   </body>
 </html>
