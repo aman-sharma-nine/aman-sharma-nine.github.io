@@ -9,3 +9,4 @@ github_username:  aman-sharma-nine
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+logo: images/logo.png
