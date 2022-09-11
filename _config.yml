@@ -14,3 +14,4 @@ show_excerpts: false
 markdown: kramdown
 theme:  minima
   date_format: "%b %-d, %Y"
+  skin: dark
