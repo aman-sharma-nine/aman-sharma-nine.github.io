@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # basic options
 title: Aman Sharma
 author:
@@ -15,3 +16,51 @@ markdown: kramdown
 theme:  minima
   date_format: "%b %-d, %Y"
   skin: dark
+=======
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+
+title: Nucleus
+description: Happy Reading... ❤
+github_username: aman-sharma-nine
+
+# Email and twitter are optional:
+email: aman.sharma.nine@gmail.com
+twitter_username:
+
+# Set this to true to get LaTeX math equation support
+use_math: True
+
+# Add your Google Analytics ID here if you have one and want to use it
+google_analytics:
+
+# Everything below here can be ignored, unless you want to change the theme entirely
+#theme: minima
+remote_theme: pages-themes/leap-day@v0.2.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jekyll-remote-theme
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+>>>>>>> 0d8514e9fa3493debe3914d693bfb97448721304
