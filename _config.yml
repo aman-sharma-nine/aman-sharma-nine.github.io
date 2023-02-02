@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-# basic options
-title: Aman Sharma
-author:
-  name: Aman Sharma
-  email: aman.sharma.nine@gmail.com
-description: I am a data scientist at Datarobot working directly with customers to help them make better decisions by using AutoML. My job entails delivering execution work for customers, running POCs and internal product improvement. Datarobot is worlds first end to end automated machine learning platform which is enterprise ready and highly scalable.
-social_links:
-  github_username:  aman-sharma-nine
-  twitter_username: Aman73736425
-
-show_excerpts: false
-
-# Build settings
-markdown: kramdown
-theme:  minima
-  date_format: "%b %-d, %Y"
-  skin: dark
-=======
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog.
@@ -40,8 +21,8 @@ use_math: True
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-#theme: minima
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: minima
+#remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
   - jekyll-feed
@@ -63,4 +44,3 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
->>>>>>> 0d8514e9fa3493debe3914d693bfb97448721304
