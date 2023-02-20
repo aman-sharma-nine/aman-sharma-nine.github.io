@@ -1,4 +1,4 @@
 
-### Welcome to nucleus / memento mori
+### Aman Sharma
 I write about random topics and sometimes machine learning 
 

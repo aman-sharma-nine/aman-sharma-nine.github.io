@@ -1,4 +1,12 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I am a data scientist working as an independent advisor. For the past couple of years, I have been working in client-facing roles to build and deploy machine learning models, which gives me a new perspective on the business problems and challenges organisations of all sizes are facing. Most of these organisations are overly optimistic when it comes to their current data strategies. I'm grateful to be gaining this experience first-hand.
+While there are plenty of useful data science blogs and tutorials to be found, I found that there was a lack of resources when it comes to applied data science topics. I understand that every business is different and thus their problems and solutions will differ. Therefore, I think a framework to approach some common data science problems can be used to streamline the process.
+I plan to post some interesting (and some not-so-interesting) business problems, as well as potential approaches to solving them using machine learning. We will discuss the full ML life cycle - problem definition, data structuring, model building, evaluation, deployment and model monitoring strategies.
+#### Past Projects 
+- Improved credit risk models for a large Australian Bank contributing to reduced default of $500K per month. Upgraded their Logistic models to GA2Ms.
+- Built a Python forecasting model to estimate the yield of apple harvest for a large fruit exporter in NZ. Deployed as an API, batch scoring to Snowflake.
+- Replaced off-the-shelf black box software with a tree-based time series model to forecast patient inflow at each ward level. We improved the MASE by 20% resulting in better patient care and staffing decisions. The model was extrapolated to other hospitals and DHBs in NZ
+- Lead a project to forecast water quality metric (True Color) for a major dam in NSW. The predictions were benchmarked against industry-wise used statistical methods. The model outperformed benchmarks in 2021-2022 data using a combination of sensor and weather data.
+- Built a Business Value Assessment Calculator(BVA) for a major bank in Australia to calculate the tangible value from data science use cases across 3 BUs - Credit Risk, Marketing, and Operations. The BVA played an important role in getting $1.5M TCV funding secured for the DataRobot purchase.
+- Deployed a RAN forecasting model to assist with tower upgrade decisions for a second-largest telecommunication provider in Aus. Improved the accuracy by 12% (SMAPE) for months of Nov-Jan contributing to better network experience and $970K saved from unnecessary upgrades. The solution was deployed on GCP and MLops on DataRobot.
